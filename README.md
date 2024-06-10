@@ -1,6 +1,8 @@
 # SemiPar
 Fit a SemiParametric regression Model Use Package SemiPar With (In) R Software
 
+https://www.youtube.com/watch?v=PzKJ3COeQKk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
